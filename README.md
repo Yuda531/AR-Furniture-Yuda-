@@ -57,7 +57,7 @@ This project is designed to help users make better purchase decisions by seeing 
 - **ARKit (iOS)** / **ARCore (Android)** - Platform-specific backend
 
 ### Additional Assets & Libraries
-- **Quick Outline** - For visual feedback when furniture is selected
+- **Furniture FREE - Low Poly 3D Models Pack by ithappy** - For Furniture Asset
 - **XR Interaction Toolkit** - For advanced AR interactions
 - **TextMesh Pro** - UI text rendering
 
